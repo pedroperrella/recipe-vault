@@ -1,4 +1,5 @@
 <?php
+define('BASE_PATH', dirname(__DIR__));
 // Show errors during development
 ini_set('display_errors', 1);
 error_reporting(E_ALL);
